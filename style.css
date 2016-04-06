@@ -61,14 +61,14 @@ footer{
 	float: bottom;
 }
 
-#content1{
+#content{
 	background-color: #ebebeb;
 	margin-left: 20px;
 	margin-right: 20px;
 	height: 30px;
 	padding: 5px 5px 5px 5px;
 }
-#content2{
+#content1{
 	background-color: #ebebeb;
 	margin-left: 20px;
 	margin-right: 20px;
